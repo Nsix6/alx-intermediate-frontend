@@ -1,0 +1,4 @@
+Steps followed to install sass
+- Confirmd Node is installed
+- Installed sass using npm command: npm install sass -v 3.7.4
+- Confirmed sass is installed using command: sass --version
